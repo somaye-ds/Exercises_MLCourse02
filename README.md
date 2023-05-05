@@ -1,2 +1,2 @@
-# Exercises_MLCourse02
+# Exercises_MLCourse
 Read me File
